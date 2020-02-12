@@ -1,2 +1,7 @@
 /* Add application styles & imports to this file! */
-p{color: red}
+p{
+  color: red;
+  font-size: 30px;
+  font-weight: 21pt;
+  
+}
